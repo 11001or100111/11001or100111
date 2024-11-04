@@ -1,15 +1,22 @@
+<h1 align="center">Merhaba 👋, ben 11001or100111</h1>
+<h3 align="center">Siber Güvenlik ve Yazılım ile ilgilenen sıradan bir Türk</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=11001or100111&label=Profile%20views&color=0e75b6&style=flat" alt="11001or100111" /> </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=l1security&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=l1security&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=l1security&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11001or100111" alt="11001or100111" /></a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=l1security&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="https://instagram.com/l1sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l1sec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sadecebirisi." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadecebirisi." yükseklik="30" genişlik="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> </p>
+
+<p><img hizala="sol" src="https://github-readme-stats.vercel.app/api/top-langs?username=11001or100111&show_icons=true&locale=tr&layout=compact" alt="11001or100111" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=11001or100111&show_icons=true&locale=tr" alt="11001or100111" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11001or100111&" alt="11001or100111" /></p>
