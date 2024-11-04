@@ -7,7 +7,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/#](https://www.linkedin.com/in/kerem-demir-8193a1311/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://instagram.com/l1sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l1sec" height="30" width="40" /></a>
   
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadecebirisi.)
